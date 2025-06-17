@@ -91,7 +91,7 @@ getgenv().Config = {
         ["Enable Send Pet Weight"] = false,
         ["Weight"] = 10 -- if Weight >= 10 they will send wh
     },
-    ["Rejoin After X Time"] = 60, -- Minutes
+    ["Rejoin After X Time"] = 120, -- Minutes
     ["Mutation Skips"] = { -- Skip Havest
         ["Pollinated"] = false,
         ["Disco"] = false,
